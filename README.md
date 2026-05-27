@@ -1,19 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,10:161B22,30:1A1F36,60:1E3A5F,100:58A6FF&height=240&section=header&text=Phanendra%20Raju&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=Astrophysics%20%E2%80%A2%20Research%20Software%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Cosmos&descSize=16&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" />
+<a href="https://github.com/phanendra09"><img src="./assets/premium-banner.png" width="100%" style="border-radius: 16px;" alt="Phanendra Raju - Astrophysics & Scientific Computing" /></a>
+
+<br /><br />
 
 <div align="center">
 
+<h1 align="center" style="border-bottom: none; font-family: 'Outfit', 'Inter', system-ui, -apple-system, sans-serif; font-weight: 700; color: #58A6FF; margin-bottom: 0;">Phanendra Raju</h1>
+<p align="center" style="font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 16px; color: #8B949E; margin-top: 4px; margin-bottom: 12px;"><strong>Astrophysics Researcher • Research Software Engineer • AI/ML & Cosmos</strong></p>
+
 <!-- ✦ HERO SECTION ✦ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=700&height=35&lines=%E2%9C%A6+Astrophysics+Research+Software+Engineer;%E2%9C%A6+Exoplanet+Science+%7C+Astrobiology+%7C+M-Dwarf+Systems;%E2%9C%A6+Scientific+Python+%7C+AI%2FML+Pipelines;%E2%9C%A6+Unreal+Engine+Beginner+%E2%80%A2+Game+Dev+Explorer" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=700&height=35&lines=%E2%9C%A6+Astrophysics+Research+Software+Engineer;%E2%9C%A6+Exoplanet+Science+%7C+Astrobiology+%7C+M-Dwarf+Systems;%E2%9C%A6+Scientific+Python+%7C+AI%2FML+Pipelines;%E2%9C%A6+Unreal+Engine+Beginner+%E2%80%A2+Game+Dev+Explorer" alt="Roles" />
 
 <br />
 
 <!-- Social pills -->
-<a href="https://github.com/phanendra09"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/phanendra-raju-40537b291/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin-white&logoColor=0A66C2" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/phanendra_raju/"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>&nbsp;&nbsp;
-<a href="https://discordapp.com/users/546600002844360734"><img src="https://custom-icon-badges.demolab.com/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" /></a>&nbsp;&nbsp;
-<a href="https://x.com/RajuPhanendra"><img src="https://custom-icon-badges.demolab.com/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2" /></a>
+<a href="https://github.com/phanendra09"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/phanendra-raju-40537b291/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/phanendra_raju/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>&nbsp;&nbsp;
+<a href="https://discordapp.com/users/546600002844360734"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" /></a>&nbsp;&nbsp;
+<a href="https://x.com/RajuPhanendra"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2" /></a>
 
 <br /><br />
 
@@ -219,37 +224,37 @@ class Phanendra:
   <tbody>
     <tr>
       <td align="left">🔬 <strong><a href="https://github.com/phanendra09/mdwarf-biosignature-atlas">mdwarf-biosignature-atlas</a></strong></td>
-      <td align="left"><img src="https://img.shields.io/badge/Astrobiology-0EA5E9?style=flat-square" /></td>
+      <td align="left"><img src="https://img.shields.io/badge/Astrobiology-0EA5E9?style=flat-square&labelColor=0D1117" /></td>
       <td align="left"><code>Python</code> <code>Astropy</code> <code>Pandas</code></td>
       <td>Screening M-dwarf systems for biosignature false-positives and stellar activity contamination.</td>
     </tr>
     <tr>
       <td align="left">💫 <strong><a href="https://github.com/phanendra09/magnetar-frb-analysis">magnetar-frb-analysis</a></strong></td>
-      <td align="left"><img src="https://img.shields.io/badge/Astrophysics-8957E5?style=flat-square" /></td>
+      <td align="left"><img src="https://img.shields.io/badge/Astrophysics-8957E5?style=flat-square&labelColor=0D1117" /></td>
       <td align="left"><code>Python</code> <code>SciPy</code> <code>Matplotlib</code></td>
       <td>Timing, wait-time statistics, and waiting-time populations of magnetar burst systems.</td>
     </tr>
     <tr>
       <td align="left">🌟 <strong><a href="https://github.com/phanendra09/gaia-invisible-companions">gaia-invisible-companions</a></strong></td>
-      <td align="left"><img src="https://img.shields.io/badge/Astrometry-F2CC60?style=flat-square" /></td>
+      <td align="left"><img src="https://img.shields.io/badge/Astrometry-F2CC60?style=flat-square&labelColor=0D1117" /></td>
       <td align="left"><code>Python</code> <code>Gaia_DR3</code> <code>Pytest</code></td>
       <td>Astrometric anomaly searches and companion detection algorithms at Gaia-scale.</td>
     </tr>
     <tr>
       <td align="left">🌋 <strong><a href="https://github.com/phanendra09/stellar-flare-avalanches">stellar-flare-avalanches</a></strong></td>
-      <td align="left"><img src="https://img.shields.io/badge/Stellar_flares-D7FF64?style=flat-square" /></td>
+      <td align="left"><img src="https://img.shields.io/badge/Stellar_Flares-D7FF64?style=flat-square&labelColor=0D1117" /></td>
       <td align="left"><code>Rust</code> <code>NumPy</code> <code>Ruff</code></td>
       <td>Modeling and statistics of stellar flare waits, energy distributions, and event rates.</td>
     </tr>
     <tr>
       <td align="left">🏗️ <strong><a href="https://github.com/phanendra09/phoenix-cluster-feedback">phoenix-cluster-feedback</a></strong></td>
-      <td align="left"><img src="https://img.shields.io/badge/Clusters-E4405F?style=flat-square" /></td>
-      <td align="left"><code>TeX</code> <code>LaTeX</code></td>
+      <td align="left"><img src="https://img.shields.io/badge/Clusters-E4405F?style=flat-square&labelColor=0D1117" /></td>
+      <td align="left"><code>TeX</code> <code>LaTeX</code> <code>Julia</code></td>
       <td>AGN feedback modeling and cooling flow analysis in galaxy clusters.</td>
     </tr>
     <tr>
       <td align="left">⚖️ <strong><a href="https://github.com/phanendra09/LexLogic">LexLogic</a></strong></td>
-      <td align="left"><img src="https://img.shields.io/badge/AI%2FML-1DA1F2?style=flat-square" /></td>
+      <td align="left"><img src="https://img.shields.io/badge/AI_Logic-1DA1F2?style=flat-square&labelColor=0D1117" /></td>
       <td align="left"><code>Python</code> <code>AI</code> <code>Logic</code></td>
       <td>AI-based legal reasoning system using SLD resolution and Horn clauses.</td>
     </tr>
