@@ -1,4 +1,4 @@
-<a href="https://github.com/phanendra09"><img src="./assets/premium-banner.png" width="100%" style="border-radius: 16px;" alt="Phanendra Raju - Astrophysics & Scientific Computing" /></a>
+<a href="https://github.com/phanendra09"><img src="./assets/premium-banner.svg" width="100%" alt="Phanendra Raju - Astrophysics & Scientific Computing" /></a>
 
 <br /><br />
 
